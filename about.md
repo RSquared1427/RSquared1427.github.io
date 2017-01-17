@@ -7,6 +7,9 @@ published: true
 
 My name is Rongrong Zhang(张蓉蓉) and I am a fourth-year Ph.D. student at [the Department of Statistics in Purdue University](http://www.stat.purdue.edu/). I obtained a B.S. degree in Mathematics from Lanzhou University in July 2010, and a M.S. degree in Mathematics from [Peking University](http://english.pku.edu.cn/) in July 2013.
 
+My research interests include statistics bioinformatics, data mining, machine learning, data analytics. I am currently working on one project applying Convolutional Neural Network in statistical models. I am a highly motivated researcher and have strong experience in statistical research, data analytics, statistical consulting, data mining and machine learning and have a solid background in mathematics.
+
+
 ## Education
 
 * **PhD candidate in Statistics, expected 2018**   
