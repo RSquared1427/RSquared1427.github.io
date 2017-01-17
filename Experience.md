@@ -13,3 +13,8 @@ SPSS, and Minitab.
 January 2016 - Present  
   
   Acting as the course web-master for Introduction to Statistics class (STAT 350). I am responsible for preparing, administering weekly quizzes,reviewing SAS, R and lab notes, holding weekly office hours, and proctoring examinations.
+
+
+* ## Teaching Assistant at Purdue University  
+  * Fall 2013 STAT 517 Statistical Inference
+
