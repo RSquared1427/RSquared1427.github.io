@@ -16,5 +16,5 @@ January 2016 - Present
 
 
 * ## Teaching Assistant at Purdue University  
-  * Fall 2013 STAT 517 Statistical Inference
-
+	* Fall 2013 STAT 517 Statistical Inference
+	* Fall 2015 STAT 350 Introduction to Statistics
