@@ -21,17 +21,15 @@ Lanzhou University
 
 ### Contact Information
 
-Address:
-Department of Statistics
-Purdue University
-250 N University St.
-West Lafayette, IN 47906
+* Address:  
+Department of Statistics  
+Purdue University  
+250 N University St.  
+West Lafayette, IN 47906  
 
-Office:
-Math Room 505
+* Office: Math Room 505  
 
-Email:
-zhan1602 at purdue dot edu
+* Email: zhan1602 at purdue dot edu
 
 
 ### More Information
