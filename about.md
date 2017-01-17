@@ -19,13 +19,23 @@ Peking University
 * **BS in Mathematics, 2010**  
 Lanzhou University
 
+### Contact Information
 
+Address:
+Department of Statistics
+Purdue University
+250 N University St.
+West Lafayette, IN 47906
+
+Office:
+Math Room 505
+
+Email:
+zhan1602 at purdue dot edu
 
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[zhan1602@purdue.edu](mailto:zhan1602@purdue.edu)
