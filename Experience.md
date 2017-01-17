@@ -5,6 +5,11 @@ June 2014 - August 2016
 The prompt and detailed procedures or statistic implementations are provided to clients by
 communicating their data and requirements through emails or face-to-face meetings. To help client
 achieve the goals in time, I helped them with statistical modeling, experiment designs and data
-analysis, including power calculations, repeated measure mixed eects models, linear regressions,
+analysis, including power calculations, repeated measure mixed effects models, linear regressions,
 prediction, classification using a wide variety of statistical computing programs, including R, SAS,
 SPSS, and Minitab.
+
+* ## Graduate Student Instuctor at Purdue University  
+January 2016 - Present  
+  
+  Acting as the course web-master for Introduction to Statistics class (STAT 350). I am responsible for preparing, administering weekly quizzes,reviewing SAS, R and lab notes, holding weekly office hours, and proctoring examinations.
