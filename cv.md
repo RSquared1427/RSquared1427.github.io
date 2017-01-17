@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Resume"
+title: "CV"
 ---
-Here's a link to a PDF of [my resume](/docs/my_resume.pdf).
+Here's a link to a PDF of [my CV](/docs/my_cv.pdf).
