@@ -13,7 +13,7 @@ My name is Rongrong Zhang(张蓉蓉) and I am a fourth-year Ph.D. student at [th
 Purdue University  
 Advisor: Prof. Michael Yu Zhu
 
-* MS in Mathematics, 2013  
+* ### MS in Mathematics, 2013  
 Peking University
 
 
