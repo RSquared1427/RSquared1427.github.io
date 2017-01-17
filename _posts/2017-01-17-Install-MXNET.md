@@ -1,7 +1,15 @@
 ---
-published: false
+layout: post
+title: '[MXNET] How to Install'
+tags:
+- MXNET
+- CNN
+date: 2017-01-17 18:21:01 -0600
+published: true
 ---
-	git clone https://github.com/dmlc/mxnet
+
+```
+git clone https://github.com/dmlc/mxnet
 
 cd mxnet
 git submodule update --init --recursive
@@ -29,4 +37,4 @@ sudo Rscript -e "library(devtools); library(methods); options(repos=c(CRAN='http
 cd ..
 make rpkg
 R CMD INSTALL mxnet_0.7.tar.gz
-
+```
