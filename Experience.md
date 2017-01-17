@@ -1,5 +1,5 @@
 * ## [Statistical Consulting Service](http://www.stat.purdue.edu/scs/index.html) at Purdue University   
-June 2014 to August 2015.   
+June 2014 - August 2015   
 
 Proactively engaging with over 30 clients from Purdue University among various disciplines.
 The prompt and detailed procedures or statistic implementations are provided to clients by
