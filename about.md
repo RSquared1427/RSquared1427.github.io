@@ -17,7 +17,9 @@ Purdue University
 Advisor: Prof. [Michael Yu Zhu](http://www.stat.purdue.edu/~yuzhu/)
 
 * **MS in Mathematics, 2013**  
-Peking University
+Peking University  
+Publication: [__Local Well-Posedness for the Davey–Stewartson Equation in a Generalized Feichtinger Algebra__, Sugimoto, M., Wang, B. & Zhang, R. J Fourier Anal Appl (2015) 21: 1105. doi:10.1007/s00041-015-9400-7](http://link.springer.com/article/10.1007/s00041-015-9400-7)
+
 
 * **BS in Mathematics, 2010**  
 Lanzhou University
@@ -37,6 +39,4 @@ West Lafayette, IN 47906
 ## Programming Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in R, SAS, Python, LaTeX，SQL  
-&nbsp;&nbsp;&nbsp;&nbsp; Familiar with C/C++, Apache Spark, Caffe, MXNET 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp; Familiar with C/C++, Apache Spark, Caffe, MXNET
