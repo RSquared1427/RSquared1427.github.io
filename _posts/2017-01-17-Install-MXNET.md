@@ -2,9 +2,9 @@
 layout: post
 title: '[MXNET] How to Install'
 tags:
-- MXNET
-- CNN
-date: 2017-01-17 18:21:01 -0600
+  - MXNET
+  - CNN
+date: '2017-01-17 18:21:01 -0600'
 published: true
 ---
 
