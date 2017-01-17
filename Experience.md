@@ -4,5 +4,5 @@ The prompt and detailed procedures or statistic implementations are provided to 
 communicating their data and requirements through emails or face-to-face meetings. To help client
 achieve the goals in time, I helped them with statistical modeling, experiment designs and data
 analysis, including power calculations, repeated measure mixed eects models, linear regressions,
-prediction, classication using a wide variety of statistical computing programs, including R, SAS,
+prediction, classification using a wide variety of statistical computing programs, including R, SAS,
 SPSS, and Minitab.
