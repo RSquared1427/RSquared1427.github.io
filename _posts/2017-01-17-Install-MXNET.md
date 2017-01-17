@@ -8,7 +8,9 @@ date: '2017-01-17 18:21:01 -0600'
 published: true
 ---
 
-```
+
+```shell
+
 git clone https://github.com/dmlc/mxnet
 
 cd mxnet
