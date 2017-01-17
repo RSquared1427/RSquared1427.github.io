@@ -16,6 +16,9 @@ Advisor: Prof. Michael Yu Zhu
 * **MS in Mathematics, 2013**  
 Peking University
 
+* **BS in Mathematics, 2010**  
+Lanzhou University
+
 
 
 
