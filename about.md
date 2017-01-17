@@ -9,7 +9,7 @@ My name is Rongrong Zhang(张蓉蓉) and I am a fourth-year Ph.D. student at [th
 
 ### Education
 
-* **PhD candidate in Statistics, expected 2018** 
+* **PhD candidate in Statistics, expected 2018**   
 Purdue University  
 Advisor: Prof. Michael Yu Zhu
 
