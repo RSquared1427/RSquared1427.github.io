@@ -31,4 +31,9 @@ West Lafayette, IN 47906
 
 * Email: zhan1602 at purdue dot edu
 
+## Programming Skills
+
+Proficient in R, SAS, Python, LaTeX，SQL  
+Familiar with C/C++ 
+
 
