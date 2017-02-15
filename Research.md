@@ -5,17 +5,6 @@ use_math: true
 ---
 
 
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
-
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
-
-Test a display math:
-$$
-   |\psi_1\rangle = a|0\rangle + b|1\rangle
-$$
-Is it O.K.?
-
-
 * ##  [Inferring Spatial Organizations of Chromosomes via Piecewise Helical Curve Models from Hi-C data](https://rsquared1427.github.io/phm/) 
 June 2015 - August 2016 at Purdue University
   * Understand the 3D spatial organizations of chromosomes and functional implications of such structure.
