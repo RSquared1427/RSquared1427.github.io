@@ -11,7 +11,7 @@ June 2015 - August 2016 at Purdue University
 
 
 
-* ## Nonlinear partial differential equation, Harmonic analysis, Banach function spaces
+* ## [Nonlinear partial differential equation, Harmonic analysis, Banach function spaces](http://link.springer.com/article/10.1007/s00041-015-9400-7)
 September 2010 – June 2013 at Peking University
   * Considered the initial value problem for the hyperbolic type Davey-Stewartson equations, including elliptic-hyperbolic and hyperbolichyperbolic cases. 
   * Showed the local existence and uniqueness of the solution in the generalized Feichtinger algebra $M˘^{s}_{1,1}(s\geq 3/2)$ with sufficiently small initial data in $M˘^{3/2}_{1,1}(\mathbb{R}^2)$. 
