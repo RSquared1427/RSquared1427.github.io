@@ -15,5 +15,7 @@ June 2015 - August 2016 at Purdue University
 September 2010 – June 2013 at Peking University
   * Considered the initial value problem for the hyperbolic type Davey-Stewartson equations, including elliptic-hyperbolic and hyperbolichyperbolic cases. 
   * Showed the local existence and uniqueness of the solution in the generalized Feichtinger algebra $M˘^{s}_{1,1}(s\geq 3/2)$ with sufficiently small initial data in $M˘^{3/2}_{1,1}(\mathbb{R}^2)$. 
-  * Moreover, showed the ill-posedness of the solutions in the sense that the solution map is not C3 if the spatial regularity is below $M˘^{3/2}_{1,1}$.
+  * Moreover, showed the ill-posedness of the solutions in the sense that the solution map is not C3 if the spatial regularity is below $M˘^{3/2}_{1,1}$.  
+  fafwafawef \\(a+b^2=1\\)
+  
 $$a^2 + b^2 = c^2$$
