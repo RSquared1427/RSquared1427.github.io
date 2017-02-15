@@ -16,5 +16,7 @@ January 2016 - Present
 
 
 * ## Teaching Assistant at Purdue University  
-	* Fall 2013: STAT 517 Statistical Inference
-	* Fall 2015: STAT 350 Introduction to Statistics
+	* Fall 2013: STAT 517 Statistical Inference, Grader
+	* Fall 2015: STAT 350 Introduction to Statistics, TA 
+	* Fall 2016: STAT 350 Intrduction to Statistics, Instructor
+	* Spring 2017: STAT 350 Intrduction to Statistics, Instructor
