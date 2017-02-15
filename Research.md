@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research"
+use_math: true
 ---
 
 * ##  [Inferring Spatial Organizations of Chromosomes via Piecewise Helical Curve Models from Hi-C data](https://rsquared1427.github.io/phm/) 
