@@ -3,6 +3,7 @@ layout: page
 title: PHM: Piecewise Helical Models for Hi-C data
 ---
 
+## PHM: Piecewise Helical Models for Hi-C data
 
 Piecewise helical model (PHM) is a parsimonious, easy to interpret, and robust model for inferring three-dimensional (3D) chromosomal structure from Hi-C data. PHM takes the Hi-C contact matrix and local genomic features (restriction enzyme cutting frequencies, GC content and sequence uniqueness) as input
 and produces, via MCMC computation, the posterior distribution of three-dimensional (3D)
@@ -14,3 +15,8 @@ In Piecewise Helical Model, we assume that chromatin within a topologically asso
 ## PHM Source Code
 ## PHM Sample Input Data
 ## PHM Sample Output Data
+
+
+
+
+Comments, suggestions, questions are welcomed, and should be directed to Rongrong Zhang (Email: zhan1602@purdue.edu).
