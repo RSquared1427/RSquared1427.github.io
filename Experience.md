@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Research"
+use_math: true
+---
+
 * ##[Statistical Consulting Service](http://www.stat.purdue.edu/scs/index.html) at Purdue University   
 June 2014 - August 2016   
     
