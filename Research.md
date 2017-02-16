@@ -26,10 +26,9 @@ June 2015 - August 2016 at Purdue University
   * Propose new, parsimonious, easy to interpret models for reconstructing 3D chromosomal structure from Hi-C data to fully characterize the 3D chromosomal structure and its structural variations.
   * Apply the method to high resolution Hi-C dataset generated from mouse embryonic stem cells.
 
-$a+b=1$
 
 * ## [Nonlinear partial differential equation, Harmonic analysis, Banach function spaces](http://link.springer.com/article/10.1007/s00041-015-9400-7)
 September 2010 – June 2013 at Peking University
   * Considered the initial value problem for the hyperbolic type Davey-Stewartson equations, including elliptic-hyperbolic and hyperbolichyperbolic cases. 
-  * Showed the local existence and uniqueness of the solution in the generalized Feichtinger algebra $M˘^{s}<em>{1,1}(s\geq 3/2)$ with sufficiently small initial data in $M˘^{3/2}<em>{1,1}(\mathbb{R}^2)$. 
-  * Moreover, showed the ill-posedness of the solutions in the sense that the solution map is not C3 if the spatial regularity is below $M˘^{3/2}<em>{1,1}$.
+  * Showed the local existence and uniqueness of the solution in the generalized Feichtinger algebra $M˘^{s}<em>{1,1}(s\geq 3/2)$ with sufficiently small initial data in $M^{3/2}_{1,1}(R^2)$. 
+  * Moreover, showed the ill-posedness of the solutions in the sense that the solution map is not C3 if the spatial regularity is below $M^{3/2}_{1,1}$.
