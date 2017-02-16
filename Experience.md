@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Experience"
 use_math: true
 ---
 
