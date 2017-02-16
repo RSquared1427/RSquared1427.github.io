@@ -1,6 +1,6 @@
 ---
 layout: page
+title: PHM: Piecewise Helical Models for Hi-C data
 ---
 
 
-## PHM: Piecewise Helical Models for Hi-C data
