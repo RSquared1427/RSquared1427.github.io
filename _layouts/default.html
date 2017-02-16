@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
+    
+    <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -11,8 +16,9 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    
     <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
+    MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX", "output/HTML-CSS"],
     tex2jax: {
@@ -25,6 +31,14 @@
 </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+      
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      {% stylesheet main %}
+      {% stylesheet syntax %}
+  
   </head>
 
   <body>
