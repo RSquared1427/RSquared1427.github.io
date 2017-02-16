@@ -1,2 +1,2 @@
   source 'https://rubygems.org'                                               
-  gem "lanyon"
+  gem 'kramdown', '~> 0.13.8'
