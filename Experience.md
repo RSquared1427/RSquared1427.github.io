@@ -4,8 +4,9 @@ title: "Experience"
 ---
 
 
-* ##  [Statistical Consulting Service](http://www.stat.purdue.edu/scs/index.html) at Purdue University   
-June 2014 - August 2016   
+
+* ##  [Statistical Consulting Service](http://www.stat.purdue.edu/scs/index.html)   
+June 2014 - August 2016 at Purdue University   
     
   Proactively engaging with over 30 clients from Purdue University among various disciplines.
 The prompt and detailed procedures or statistic implementations are provided to clients by
