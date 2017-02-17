@@ -13,7 +13,7 @@ chromosomal structure.
 In Piecewise Helical Model, we assume that chromatin within a topologically associating domain exhibits a consensus spatial organization among the cell population. Additionally, it is known from geometry that any 3D curve can be uniquely determined by its local curvature and torsion. As a special case, a constant curvature and constant torsion lead to a helical curve. Analogous to the fact that any continuous function can be approximated by a constant at each point, the curvature and torsion of an arbitrary 3D curve can be approximated by piecewise constant functions. Therefore, any continuous 3D curve can be approximated by several well-connected helixes, which we refer to as a piecewise helical curve. Based on this, we further assume that chromatin folds like a piecewise helical curve in three dimension space.
 
 ## [PHM Users' Manual](/docs/phm/UserGuide.pdf)
-## PHM Source Code
+## [PHM Binary](/docs/phm) (Linux 64, for other platform, please send me email)
 ## [PHM Sample Input Data](/docs/phm/PHMInput.zip)
 ## [PHM Sample Output Data](/docs/phm/PHMOutput.zip)
 
