@@ -46,4 +46,4 @@ West Lafayette, IN 47906
 ## Programming Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in R, SAS, Python, LaTeX，SQL  
-&nbsp;&nbsp;&nbsp;&nbsp; Familiar with C/C++, Apache Spark, Caffe, MXNET
+&nbsp;&nbsp;&nbsp;&nbsp; Familiar with C/C++, Apache Spark, Tensorflow, Caffe, MXNET
