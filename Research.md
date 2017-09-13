@@ -3,7 +3,12 @@ layout: page
 title: "Research"
 ---
 
-
+* ##  [Using Deep Neural Networks to Automate Large Scale Statistical Analysis for Big Data Applications](https://arxiv.org/abs/1708.03027) 
+August 2016 - May 2017 at Purdue University
+ * Statistical analysis (SA) is a complex process to deduce population properties from analysis of data. It usually takes a well-trained analyst to successfully perform SA, and it becomes extremely challenging to apply SA to big data applications.
+ * We propose to use deep neural networks to automate the Statistical Analysis(SA) process. 
+ * We propose to construct convolutional neural networks (CNNs) to perform automatic model selection and parameter estimation, two most important SA tasks.  
+ * Simulation study shows that both the neural model selector and neural parameter estimator demonstrate excellent performances. The idea and proposed framework can be further extended to automate the entire SA process and have the potential to revolutionize how SA is performed in big data analytics.
 
 
 * ##  [Inferring Spatial Organization of Individual Topologically Associated Domains via Piecewise Helical Model](https://rsquared1427.github.io/phm/) 
