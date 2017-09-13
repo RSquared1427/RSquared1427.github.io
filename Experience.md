@@ -27,3 +27,5 @@ January 2016 - Present
 	* Fall 2015: STAT 350 Introduction to Statistics, TA 
 	* Fall 2016: STAT 350 Intrduction to Statistics, Instructor
 	* Spring 2017: STAT 350 Intrduction to Statistics, Instructor
+	* Summer 2017: STAT 350 Intrduction to Statistics, Instructor
+	* Fall 2017: STAT 350 Intrduction to Statistics, Instructor
