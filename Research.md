@@ -12,7 +12,7 @@ August 2016 - May 2017 at Purdue University
 
 
 * ##  [Inferring Spatial Organization of Individual Topologically Associated Domains via Piecewise Helical Model](https://rsquared1427.github.io/phm/) 
-June 2015 - August 2016 at Purdue University
+June 2015 - August 2016 at Purdue University, presented at JSM 2016, Chicago
   * Understand the 3D spatial organizations of chromosomes and functional implications of such structure.
   * Propose new, parsimonious, easy to interpret models for reconstructing 3D chromosomal structure from Hi-C data to fully characterize the 3D chromosomal structure and its structural variations.
   * Apply the method to high resolution Hi-C dataset generated from mouse embryonic stem cells.
