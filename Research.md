@@ -18,6 +18,7 @@ June 2015 - August 2016 at Purdue University, presented at JSM 2016, Chicago
   * Understand the 3D spatial organizations of chromosomes and functional implications of such structure.
   * Propose new, parsimonious, easy to interpret models for reconstructing 3D chromosomal structure from Hi-C data to fully characterize the 3D chromosomal structure and its structural variations.
   * Apply the method to high resolution Hi-C dataset generated from mouse embryonic stem cells.
+  * ![https://github.com/RSquared1427/phm](https://github.com/RSquared1427/phm)
 
 
 * ## [Nonlinear partial differential equation, Harmonic analysis, Banach function spaces](http://link.springer.com/article/10.1007/s00041-015-9400-7)
