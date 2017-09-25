@@ -6,6 +6,8 @@ title: "Research"
 * ##  [Using Deep Neural Networks to Automate Large Scale Statistical Analysis for Big Data Applications](https://arxiv.org/abs/1708.03027) 
 [https://arxiv.org/abs/1708.03027](https://arxiv.org/abs/1708.03027)
 
+In: Proceedings of the 9th Asian Conference on Machine Learning (ACML'17), Seoul, Korea, 2017.
+
   August 2016 - May 2017 at Purdue University
  * Statistical analysis (SA) is a complex process to deduce population properties from analysis of data. It usually takes a well-trained analyst to successfully perform SA, and it becomes extremely challenging to apply SA to big data applications.
  * We propose to use deep neural networks to automate the Statistical Analysis(SA) process. 
