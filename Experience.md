@@ -16,7 +16,7 @@ analysis, including power calculations, repeated measure mixed effects models, l
 prediction, classification using a wide variety of statistical computing programs, including R, SAS,
 SPSS, and Minitab.
 
-* ## Graduate Student Instuctor at Purdue University  
+* ## Graduate Student Instructor at Purdue University  
 January 2016 - Present  
   
   Acting as the course web-master for Introduction to Statistics class (STAT 350). I am responsible for preparing, administering weekly quizzes,reviewing SAS, R and lab notes, holding weekly office hours, and proctoring examinations.
