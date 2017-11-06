@@ -8,7 +8,7 @@ title: "Research"
 
 In: Proceedings of the 9th Asian Conference on Machine Learning (ACML'17), Seoul, Korea, 2017.
 
-Here's a link to the poster(/docs/acml.pdf).
+Here's a link to the [poster](/docs/acml.pdf).
 
   August 2016 - May 2017 at Purdue University
  * Statistical analysis (SA) is a complex process to deduce population properties from analysis of data. It usually takes a well-trained analyst to successfully perform SA, and it becomes extremely challenging to apply SA to big data applications.
